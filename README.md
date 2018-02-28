@@ -5,3 +5,4 @@ Comprobada la validación de los diferentes archivos.
 Los elementos de formulario select multiple y checkbox tienen mas de una respuesta correcta.
 Se puede usar en diferentes dispositivos.
 Indentado.
+En la rama minify se ha añadido una carpeta minify con los archivos .HTML y .CSS
